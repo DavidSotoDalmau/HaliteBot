@@ -1,0 +1,10 @@
+C:\Users\sotod7\Documents\Visual Studio 2017\Projects\HaliteBot\HaliteBot\bin\Release\netcoreapp2.2\HaliteBot.deps.json
+C:\Users\sotod7\Documents\Visual Studio 2017\Projects\HaliteBot\HaliteBot\bin\Release\netcoreapp2.2\HaliteBot.runtimeconfig.json
+C:\Users\sotod7\Documents\Visual Studio 2017\Projects\HaliteBot\HaliteBot\bin\Release\netcoreapp2.2\HaliteBot.runtimeconfig.dev.json
+C:\Users\sotod7\Documents\Visual Studio 2017\Projects\HaliteBot\HaliteBot\bin\Release\netcoreapp2.2\HaliteBot.dll
+C:\Users\sotod7\Documents\Visual Studio 2017\Projects\HaliteBot\HaliteBot\bin\Release\netcoreapp2.2\HaliteBot.pdb
+C:\Users\sotod7\Documents\Visual Studio 2017\Projects\HaliteBot\HaliteBot\obj\Release\netcoreapp2.2\HaliteBot.csproj.CoreCompileInputs.cache
+C:\Users\sotod7\Documents\Visual Studio 2017\Projects\HaliteBot\HaliteBot\obj\Release\netcoreapp2.2\HaliteBot.AssemblyInfoInputs.cache
+C:\Users\sotod7\Documents\Visual Studio 2017\Projects\HaliteBot\HaliteBot\obj\Release\netcoreapp2.2\HaliteBot.AssemblyInfo.cs
+C:\Users\sotod7\Documents\Visual Studio 2017\Projects\HaliteBot\HaliteBot\obj\Release\netcoreapp2.2\HaliteBot.dll
+C:\Users\sotod7\Documents\Visual Studio 2017\Projects\HaliteBot\HaliteBot\obj\Release\netcoreapp2.2\HaliteBot.pdb
